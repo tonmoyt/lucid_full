@@ -1196,8 +1196,8 @@ color: #999999;
     }
     .btn-2:hover{
         color: #fff;
-        border: 1px solid #999999 !important;
-        background-color: transparent !important;
+        border: 1px solid #999999 ;
+        background-color: transparent ;
     }
     
     .map iframe{
