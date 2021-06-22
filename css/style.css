@@ -1267,7 +1267,7 @@ font-weight: 700;
 }
 
  
- .footeri i.fab.fa-basketball-ball:hover{
+ .footeri i.fas.fa-basketball-ball:hover{
 
     color: #008ed6;
  }
@@ -1290,7 +1290,7 @@ font-weight: 700;
     }
 
 
-    .footeri i.fab.fa-basketball-ball{
+    .footeri i.fas.fa-basketball-ball{
         transition: 0.5s all ease-in-out;
 
 
