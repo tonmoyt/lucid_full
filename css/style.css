@@ -855,7 +855,7 @@ text-align: right;
     .priching{
 
 padding: 100px;
-
+position: relative;
 }
 
     .price{
@@ -1061,6 +1061,7 @@ background: #008ed6;
             /* padding: 100px; */
             padding-top: 50px;
             padding-bottom: 313px;
+            position: relative;
         }
 
         .mazelaki{
@@ -1104,15 +1105,15 @@ color: #999999;
 
 .con_form{
     
-width: 50%;
-    
-position: absolute;
-    
-left: 50%;
-    
-transform: translate(-50%);
-    
-top: 621%;
+    background-color: rgb(7, 2, 2);
+    padding: 50px;
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%);
+    margin-top: 15px;
+}
     }
     .con_form form{
         
