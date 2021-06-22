@@ -948,7 +948,7 @@ font-weight: 400;
     transition: 0.4s all ease-in-out;
 }
 
-.price:hover .btn_boiid{
+.btn_boiid:hover{
     background: #008ed6;
     color: white;
 
