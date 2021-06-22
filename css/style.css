@@ -1241,7 +1241,7 @@ letter-spacing: 13px;
 font-size: 26px;
 }
 .footeri i.fab.fa-twitter{
-color: #008ed6;
+transition: 0.5s all ease-in-out;
 
 }
 
@@ -1256,3 +1256,53 @@ margin-top: 8px;
 font-weight: 700;
 }
 
+.footeri i.fab.fa-twitter:hover{
+    color: #008ed6;
+    
+    }
+
+
+ .footeri i.fab.fa-behance-square:hover{
+    color: #008ed6;
+}
+
+ 
+ .footeri i.fab.fa-basketball-ball:hover{
+
+    color: #008ed6;
+ }
+
+ .footeri i.fab.fa-facebook-f:hover{
+
+    color: #008ed6;
+ }
+
+    .footeri i.fab.fa-linkedin-in:hover{
+        color: #008ed6;
+
+    }
+
+    
+
+    .footeri i.fab.fa-behance-square{
+        transition: 0.5s all ease-in-out;
+
+    }
+
+
+    .footeri i.fab.fa-basketball-ball{
+        transition: 0.5s all ease-in-out;
+
+
+    }
+
+    ..footeri i.fab.fa-facebook-f{
+
+        transition: 0.5s all ease-in-out;
+
+    }
+
+    .footeri i.fab.fa-linkedin-in{
+        transition: 0.5s all ease-in-out;
+
+    }
